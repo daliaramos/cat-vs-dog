@@ -5,6 +5,15 @@ img {
   height: 200px;
 }
 
+.alligator-img {
+  height: 400px;
+}
+
+.alligator {
+    display:flex;
+    align-content: center;
+}
+
 li {
   font-size: 1.5em;
 }
